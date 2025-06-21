@@ -1,0 +1,18 @@
+{
+  "campusId": 0,
+    "campusName": "42 Campus",
+    "country": "Country",
+    "city": "City",
+    "cluster": [
+      {
+        "clusterId": "1",
+        "clusterName": "Cluster 1",
+        "rows": [
+          {
+            "rowId": "r1",
+            "stationsId": ["s1", "s2", "s3", "s4", "s5", "s6"]
+          }
+        ]
+      }
+    ]
+}
