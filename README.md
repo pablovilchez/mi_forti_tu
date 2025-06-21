@@ -6,6 +6,7 @@ The app is tailored for academic and competitive use inside 42 campuses and offe
 
 ⚠️ Limited access: As the app is in early testing, access is restricted to a small group of approved users to prevent exceeding API quotas.
 
+---
 
 ## 📱 Download the APK
 
