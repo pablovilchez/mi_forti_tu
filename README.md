@@ -10,8 +10,8 @@ The app is tailored for academic and competitive use inside 42 campuses and offe
 
 ## 📱 Download the APK
 
-👉 [Latest APK release](https://drive.google.com/file/d/1A1zpj4pduzahFVo2SzmEIX-vO5WoLVvV/view?usp=sharing)
-🕘 **Version:** 0.4.1
+👉 [Latest APK release](https://drive.google.com/file/d/18-AnT2A2uyqzCzssaG0s2DOdFB7TI6CW/view?usp=sharing)
+🕘 **Version:** 0.4.2
 🗓 **Date:** Jun 23, 2025
 
 👉 [Previous APK release](https://drive.google.com/file/d/13Dlou0RSkJuNnef0CyEYTRo-cwQvZ9fE/view?usp=drive_link)
