@@ -19,6 +19,16 @@ The app is tailored for academic and competitive use inside 42 campuses and offe
 
 ---
 
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/3ef1c725-4425-412a-ab5f-6f316793fc61" alt="Screenshot 1" width="200"/>
+<img src="https://github.com/user-attachments/assets/777e7881-bf40-4888-bdb8-f8100400ece8" alt="Screenshot 2" width="200"/>
+<img src="https://github.com/user-attachments/assets/b1d3ff93-a9af-4539-93c3-334df280a7c4" alt="Screenshot 3" width="200"/>
+
+
+
+---
+
 ## 🎯 Goals
 
 Serve as a practical and motivating tool for active 42 students.
