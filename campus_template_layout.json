@@ -27,12 +27,12 @@ The order of rows and columns must be exactly the same as that shown in the intr
 
 Examples:
 
-c2r4s1
-- "clusterId": "c"
+location c2r4s1
+- "clusterId": "c1"
 - "rowId": "r4"
 - "stationId": "s1"
 
-3B6
+location 3B6
 - "clusterId": "3"
 - "rowId": "B"
 - "stationId": "6"
