@@ -3,7 +3,7 @@
     "campusName": "42 Campus",
     "country": "Country",
     "city": "City",
-    "cluster": [
+    "clusters": [
       {
         "clusterId": "1",
         "clusterName": "Cluster 1",
