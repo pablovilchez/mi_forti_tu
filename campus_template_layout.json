@@ -16,3 +16,48 @@
       }
     ]
 }
+
+
+*************************************************************************
+
+INFO:
+
+A student's location must exactly match the template names (uppercase/lowercase, letter/number/mixed case, etc.).
+The order of rows and columns must be exactly the same as that shown in the intra.
+
+Examples:
+
+c2r4s1
+- "clusterId": "c"
+- "rowId": "r4"
+- "stationId": "s1"
+
+3B6
+- "clusterId": "3"
+- "rowId": "B"
+- "stationId": "6"
+
+
+SPECIAL CASES:
+
+Empty space between rows:
+"rows": [
+  {
+    "rowId": "r1",
+    "stationsId": ["s1", "s2", "s3", "s4", "s5", "s6"]
+  },
+  {
+    "rowId": "_",
+    "stationsId": ["_"]
+  },
+  {
+    "rowId": "r2",
+    "stationsId": ["s1", "s2", "s3", "s4", "s5", "s6"]
+  }
+]
+
+Empty space between computers:
+{
+  "rowId": "r1",
+  "stationsId": ["s1", "s2", "_", "s4", "s5", "s6"]
+}
